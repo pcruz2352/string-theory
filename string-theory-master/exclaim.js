@@ -11,5 +11,5 @@ if (str[i] === "?" || str[i] === "."){
     return newStr
 }
 
-console.log(exclaim("Where are you going? Are you lost?")) // Where are you going! Are you lost!
-console.log(exclaim("This is great.")) // This is great!
+console.log(exclaim("Where are you going? Are you lost?")) 
+console.log(exclaim("This is great.")) 
